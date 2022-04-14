@@ -1,0 +1,25 @@
+*{
+    text-align: center; 
+}
+body{
+background-image: url(./IMG/21omxpw.jpg);
+
+ }
+h1{
+
+    color: red;
+}
+p{
+
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+img{
+display:inline
+;
+text-align: center;
+width: 13em;
+border-radius: 10px;
+}
